@@ -34,7 +34,6 @@ Use mysql to run the schema, npm run seed to seed the database, and hit the api 
   
   https://github.com/T0mWhite
   
-  #### Email
   
 
   
